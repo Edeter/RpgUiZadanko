@@ -5,7 +5,12 @@ using UnityEngine;
 [CreateAssetMenu(fileName="data",menuName="data")]
 public class Infoso : ScriptableObject
 {
-  public Pageobj page;
+      public Pageobj page;
+
+
+[Header("Basics")]
+public string heroname;
+public Sprite herosprite;
 
   public int level;
   public int exp;

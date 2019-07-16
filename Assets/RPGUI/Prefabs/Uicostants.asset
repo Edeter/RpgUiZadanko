@@ -12,8 +12,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9c963b7e32c71c540999ee2584f4de5c, type: 3}
   m_Name: Uicostants
   m_EditorClassIdentifier: 
-  heroname: GOND THE EMPEROR
-  herosprite: {fileID: 21300000, guid: b42963e48e98d884d9844b8a62e62aff, type: 3}
   newname: tak
   newsprite: {fileID: 21300000, guid: b42963e48e98d884d9844b8a62e62aff, type: 3}
   newtraitname: boop
@@ -74,3 +72,5 @@ MonoBehaviour:
   - czx
   - q
   - 213213
+  - 21
+  - boop

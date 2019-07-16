@@ -6,9 +6,6 @@ using System.Collections.Generic;
 [CreateAssetMenu(fileName="page",menuName="page")]
 public class Pageobj : ScriptableObject
 {
-[Header("Basics")]
-public string heroname;
-public Sprite herosprite;
 
 [Header("New skill")]
 public string newname;

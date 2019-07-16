@@ -40,8 +40,8 @@ public Infoso dane;
     }
     public void setvaleus()
     {
-        Name.text = global.heroname;
-        Avatar.sprite = global.herosprite;
+        Name.text = dane.heroname;
+        Avatar.sprite = dane.herosprite;
     }
 
     public void hide(bool what)

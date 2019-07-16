@@ -25,8 +25,9 @@ public class Traitsgenerator : MonoBehaviour
     {
             for (int i = 0; i < obj.Traits.Count; i++)
         {
-            updatelist[i].transform.GetChild(0).GetComponent<Slider>().value = dane.Traitsinfos[i];
+               updatelist[i].transform.GetChild(0).GetComponent<Slider>().value = dane.Traitsinfos[i];
         }
+        
     }
 
     public void Generate()
