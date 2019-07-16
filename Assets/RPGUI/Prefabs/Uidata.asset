@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6e1cde9d95c9a554bbcd82185d1a4447, type: 3}
+  m_Name: Uidata
+  m_EditorClassIdentifier: 
+  page: {fileID: 11400000, guid: 0cc8ed92ef74f7645ab4efb9cf8f741a, type: 2}
+  level: 8
+  exp: 63
+  maxexp: 672
+  Skillinfos: 0c000000330000003d000000490000005500000036000000600000002b000000
+  Traitsinfos: 3e000000270000004c000000200000005a000000150000001700000000000000
+  Statsinfos: 0f0000005f0100000100000002000000
